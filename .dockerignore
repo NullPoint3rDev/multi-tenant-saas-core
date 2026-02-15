@@ -1,0 +1,10 @@
+.git
+.gitignore
+build
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+*.md
+.idea
+*.iml
+out
