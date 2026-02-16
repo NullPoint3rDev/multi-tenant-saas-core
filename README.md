@@ -69,7 +69,7 @@ A **multi-tenant** SaaS-style backend core with row-level tenant isolation, Java
 ### Run with Docker Compose (recommended)
 
 ```bash
-git clone https://github.com/nullpoint3rdev/multi-tenant-saas-core.git
+git clone https://github.com/NullPoint3rDev/multi-tenant-saas-core.git
 cd multi-tenant-saas-core
 docker compose up -d --build
 ```
